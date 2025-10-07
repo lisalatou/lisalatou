@@ -1,7 +1,7 @@
 ## Hi there, i'm Lisa 👋
 
 # 💫 About Me:
-*  ⚡Former marketing strategist turned web developer<br>* 💡 Bringing marketing insights to user-centered development<br>* 🔭 I'm currently working on React Native mobile applications<br>* 🌱 Always eager to learn new frameworks and technologies<br>* 👯 I'm looking to collaborate on meaningful web projects
+* ⚡Former marketing strategist turned web developer<br>* 💡 Bringing marketing insights to user-centered development<br>* 🔭 I'm currently working on React Native mobile applications<br>* 🌱 Always eager to learn new frameworks and technologies<br>* 👯 I'm looking to collaborate on meaningful web projects
 
 
 ## 🌐 Socials:
